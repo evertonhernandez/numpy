@@ -1,3 +1,5 @@
+Estou feliz por estar fazendo minha primeira edição!
+
 # NumPy SIMD Wrapper for Highway
 
 This directory contains a lightweight C++ wrapper over Google's [Highway](https://github.com/google/highway) SIMD library, designed specifically for NumPy's needs.
